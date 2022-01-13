@@ -31,10 +31,10 @@
 # Коротко о технологиях
 
 * .NET Framework, переходим постепенно на .NET Core:
-  * ASP.NET MVC в монолите – 14 сервисов;
-  * ASP.NET Core в монолите – 2 сервиса;
-  * ASP.NET Core вне монолита на win серверах – 4 сервиса;
-  * ASP.NET Core вне монолита в k8s – 24 сервиса.
+  * ASP.NET MVC в монолите – 4 сервиса;
+  * ASP.NET Core в монолите – 14 сервисов;
+  * ASP.NET Core вне монолита на win серверах – 1 сервис;
+  * ASP.NET Core вне монолита в k8s – 27 сервисов.
 * на сайте React + TypeScript, в бекофисе мигрируем с jQuery, Angular первых версий тоже на React + TypeScript;
 * 36 баз MySql на кластерах, кроме dev окружений;
 * всё на Azure, с использованием RabbitMQ (местами Kafka, Azure Event Hubs), Kusto, CosmosDB, Redis и ещё много мелких радостей;
