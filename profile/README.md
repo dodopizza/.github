@@ -1,4 +1,4 @@
-# Привет, это мы, разработчики Dodo Engineering 👋
+# Привет, это мы – разработчики Dodo Engineering
 
 Тут мы открыто рассказываем про то, как создаём и развиваем IT в Dodo Brands (Додо Пицца, Дринкит, Донер 42), а также про ценности, принципы, бизнес-процессы, инструменты и правила жизни нашей команды.
 
@@ -45,10 +45,10 @@
 
 1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ztSpWjMYITWqemHAWOQvKZif308NzDSKsqmdBAA8EE4%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BInfrastructure.csv).
 2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F18Q1uHEuyqqS3tttHHnHXBX1HGoKZ2QfSirTsPyiClTM%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BBackend.csv).
-3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F15B0mJaxj8gdS4opGCsn42w3PeIAV0YCfVeEFzzcFe5w%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BFrontend.csv).
+3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vT7V9CyRMF1ZPSXe5cJWTfae-GUUmmbWCM_CQHsY9ziwb5Fq-YHEtCFkWac7b8UsCEnk_rX7zhzx8jQ%2Fpub%3Fgid%3D604704275%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Frontend.csv).
 4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Us_0_jAawz2CvGw2QWSNBBdkTszFEHU3OBIaCoBakkI%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BQA.csv).
 5. [Data](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1AlBKLqQbfXnw4GOdcsnfmWDt8gpGyp2VuezmvnsLMTo%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BData.csv).
-6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1675l-O8_tuO15uGCYaevKwvuTAvLbY2GdLNwzzPSX7c%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BiOS.csv).
+6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vQAC6MJuPAC6F-b3dOiaWzRe3wjA1OCruYgiMYBwjY51WdrHcqjadKDdUc17XwvEMTFR_6246VPY2z_%2Fpub%3Foutput%3Dcsv%26format%3D%2FDodo+Engineering+iOS.csv).
 7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Gfjm3g3-u-WrZsynq7trQ3PiqQJozf7ceNy6wdUvxYk%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BAndroid.csv).
 
 # Что ещё?
