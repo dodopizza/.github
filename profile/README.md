@@ -1,6 +1,6 @@
-# Где я?
+# Привет, это мы – разработчики Dodo Engineering
 
-Ты в **RTFM**. Это мануал команды Dodo Engineering. Он предназначен для использования нашими разработчиками, а также всеми людьми/инопланетянами/роботами, которым интересна наша жизнь. Здесь мы открыто рассказываем про то, как создаём и развиваем IT в Dodo Brands (Додо Пицца, Дринкит, Донер 42). Здесь ты узнаешь про ценности, принципы, бизнес-процессы, инструменты и правила жизни нашей команды.
+Тут мы открыто рассказываем про то, как создаём и развиваем IT в Dodo Brands (Додо Пицца, Дринкит, Донер 42), а также про ценности, принципы, бизнес-процессы, инструменты и правила жизни нашей команды.
 
 [![http://dodo.dev/](https://github.com/dodopizza/RTFM/raw/master/images/header.png)](http://dodo.dev/)
 
@@ -8,11 +8,11 @@
 
 # Коротко о команде Dodo Engineering
 
-Наша команда появилась 22 апреля 2011 года в Сыктывкаре вместе с появлением первой пиццерии Додо Пиццы. Тогда она состояла из двух разработчиков, которые создали сайт для заказа пиццы и заложили основу Dodo IS (наша самописная система). За это время мы сильно выросли. Сейчас система объединяет в себе функционал ERP+CRM+HRM и помогает франчайзи открывать бизнес «из коробки».
+Наша команда появилась 22 апреля 2011 года в Сыктывкаре вместе с первой пиццерией Додо Пиццы. Тогда она состояла из двух разработчиков, которые создали сайт для заказа пиццы и заложили основу Dodo IS, нашей самописной системы. За это время мы сильно выросли. Сейчас система объединяет в себе функционал ERP+CRM+HRM и помогает франчайзи открывать бизнес «из коробки».
 
-В 2017 году нас было 20, сейчас 200. 2019 год стал переломным. Команда выросла больше чем в 3 раза, процессы поплыли, структура перестала работать эффективно. В конце года мы начали перестройку. За полгода прошли путь от хаоса и разрухи до понятной структуры на 120+ человек и 18 команд. Мы будем дальше масштабироваться, и теперь понимаем, как работает команда на 200 человек и будет работать на 300. Понимаем, какие задачи будут перед нами стоять, какую роль во всём этом играет распил монолита, куда можно расти разработчикам.
+В 2017 году нас было 20, сейчас больше 200. 2019 год стал переломным: команда выросла больше чем в 3 раза, процессы поплыли, структура перестала работать эффективно. Мы начали перестройку и за полгода прошли путь от хаоса и разрухи до понятной структуры на 120+ человек и 18 команд. Будем дальше масштабироваться и теперь понимаем, как работает команда на 300 человек и будет работать на 500. Понимаем, какие задачи будут перед нами стоять, какую роль во всём этом играет распил монолита, куда можно расти разработчикам.
 
-В 2020 году наш бизнес вырос. Теперь мы Dodo Brands – помимо Додо Пиццы, работаем над развитием кофеен Дринкит и донерных Донер42. Планируем открытие нескольких новых стран. Продолжаем расти и масштабироваться вместе с бизнесом, решая проблему с помощью написания строчки кода и раскатки решения на все точки питания.
+В 2020 году наш бизнес вырос – помимо Додо Пиццы запустили и развиваем кофейни Дринкит и донерные Донер 42. Планируем открытие новых стран. Мы как IT-команда продолжаем расти и масштабироваться вместе с бизнесом, решая проблему с помощью написания строчки кода и раскатки решения на все точки питания.
 
 # Коротко в цифрах
 
@@ -20,13 +20,13 @@
 |:------------- |:---------------:|
 | Всего сотрудников в компании | 500+ |
 |IT-команда | 200+ |
-|Количество пиццерий | 730+ |
+|Количество пиццерий | 770+ |
 |Количество стран | 15 |
-|Количество клиентов | 16 000 000+ |
+|Количество клиентов | 21 000 000+ |
 |Максимальная нагрузка (заказов в минуту) | 370 |
 |Стандартная нагрузка (заказов в минуту) | 250 |
-|RPS | 3000 |
-|Выручка в 2020 году (рублей) | 26 000 000 000 |
+|RPS | 3700 |
+|Выручка в 2021 году (рублей) | 40 000 000 000 |
 
 # Коротко о технологиях
 
@@ -38,32 +38,28 @@
 * на сайте React + TypeScript, в бекофисе мигрируем с jQuery, Angular первых версий тоже на React + TypeScript;
 * 36 баз MySql на кластерах, кроме dev окружений;
 * всё на Azure, с использованием RabbitMQ (местами Kafka, Azure Event Hubs), Kusto, CosmosDB, Redis и ещё много мелких радостей;
-* все новые сервисы мы пишем на .Net, под Linux, запускаем в Kubernetes;
+* все новые сервисы мы пишем на .NET, под Linux, запускаем в Kubernetes;
 * детальный мониторинг на продакшене на базе Prometheus, сбор логов в Kusto, визуализация в Grafana, пейджер для дежурного в PagerDuty.
 
 # 7 технологических радаров Dodo Engineering
 
 1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ztSpWjMYITWqemHAWOQvKZif308NzDSKsqmdBAA8EE4%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BInfrastructure.csv).
 2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F18Q1uHEuyqqS3tttHHnHXBX1HGoKZ2QfSirTsPyiClTM%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BBackend.csv).
-3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F15B0mJaxj8gdS4opGCsn42w3PeIAV0YCfVeEFzzcFe5w%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BFrontend.csv).
+3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vT7V9CyRMF1ZPSXe5cJWTfae-GUUmmbWCM_CQHsY9ziwb5Fq-YHEtCFkWac7b8UsCEnk_rX7zhzx8jQ%2Fpub%3Fgid%3D604704275%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Frontend.csv).
 4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Us_0_jAawz2CvGw2QWSNBBdkTszFEHU3OBIaCoBakkI%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BQA.csv).
 5. [Data](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1AlBKLqQbfXnw4GOdcsnfmWDt8gpGyp2VuezmvnsLMTo%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BData.csv).
-6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1675l-O8_tuO15uGCYaevKwvuTAvLbY2GdLNwzzPSX7c%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BiOS.csv).
+6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vQAC6MJuPAC6F-b3dOiaWzRe3wjA1OCruYgiMYBwjY51WdrHcqjadKDdUc17XwvEMTFR_6246VPY2z_%2Fpub%3Foutput%3Dcsv%26format%3D%2FDodo+Engineering+iOS.csv).
 7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Gfjm3g3-u-WrZsynq7trQ3PiqQJozf7ceNy6wdUvxYk%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BAndroid.csv).
 
 # Что ещё?
 
 * Стратегия и правила жизни на корабле.
   * [Миссия, ценности, принципы](https://github.com/dodopizza/RTFM/blob/master/docs/our-mission.md).
-  * Стратегия в IT.
 * Как мы ведём разработку Dodo IS.
   * [Что такое Dodo IS](https://habr.com/ru/company/dododev/blog/506136/).
   * [Структура команды](https://github.com/dodopizza/RTFM/blob/master/docs/team-structure.md).
-  * Инженерные практики.
-  * Целеполагание и ревью.
   * [Развитие и возможности в IT](https://github.com/dodopizza/RTFM/blob/master/docs/self-development.md).
   * [Onboarding](https://habr.com/ru/company/dododev/blog/510382/).
-* Как проходят собеседования и как стать частью нашей команды:
-  * Как проходят собеседования.
+* Как стать частью нашей команды:
   * [Вакансии](https://dodo.dev/manager#jobs).
 * [Где нас можно найти](https://github.com/dodopizza/RTFM/blob/master/docs/resource-links.md).
