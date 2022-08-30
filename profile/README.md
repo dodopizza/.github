@@ -59,7 +59,6 @@
   * [Что такое Dodo IS](https://habr.com/ru/company/dododev/blog/506136/).
   * [Структура команды](https://github.com/dodopizza/RTFM/blob/master/docs/team-structure.md).
   * [Рыночные и глобальные команды](https://habr.com/ru/company/dododev/blog/666028/).
-  * [Развитие и возможности в IT](https://github.com/dodopizza/RTFM/blob/master/docs/self-development.md).
   * [Onboarding](https://habr.com/ru/company/dododev/blog/510382/).
 * Как стать частью нашей команды:
   * [Вакансии](https://dodo.dev/manager#jobs).
