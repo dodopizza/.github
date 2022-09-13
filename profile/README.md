@@ -20,8 +20,10 @@
 |:------------- |:---------------:|
 | Всего сотрудников в компании | 500+ |
 |IT-команда | 200+ |
-|Количество пиццерий | 770+ |
-|Количество стран | 15 |
+|Количество пиццерий | 800+ |
+|Количество донерных | 8|
+|Количество кофеен | 5|
+|Количество стран | 16 |
 |Количество клиентов | 21 000 000+ |
 |Максимальная нагрузка (заказов в минуту) | 370 |
 |Стандартная нагрузка (заказов в минуту) | 250 |
@@ -41,13 +43,13 @@
 
 # 7 технологических радаров Dodo Engineering
 
-1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1ztSpWjMYITWqemHAWOQvKZif308NzDSKsqmdBAA8EE4%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BInfrastructure.csv).
-2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRSisDYDPhKSyPCd3mQhgGM5xTSrZCY_mTCHS5Vhn0bEJXr4BMWAboCji7-H5nxMdaLfHhbDn6vygva%2Fpub%3Fgid%3D1840903008%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Backend.csv).
-3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vT7V9CyRMF1ZPSXe5cJWTfae-GUUmmbWCM_CQHsY9ziwb5Fq-YHEtCFkWac7b8UsCEnk_rX7zhzx8jQ%2Fpub%3Fgid%3D604704275%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Frontend.csv).
-4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Us_0_jAawz2CvGw2QWSNBBdkTszFEHU3OBIaCoBakkI%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BQA.csv).
+1. [Infrastructure](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vT7Fr8ieNw34TIlxviFOhZQ1x7wFTS88kfK6loVoQIncEcF_xI2imNYNcMIQbLXGbkDKhfamLdPxZuh%2Fpub%3Fgid%3D1362144133%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Infra.csv).
+2. [Backend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRJq9wMTAL7IWulP81qOyuAughwJ9NLMZy_jH4UibjVJF83rM_XdqdSTGWvIfvGS1PYV85LW5BVVUlv%2Fpub%3Fgid%3D1655424610%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Backend.csv).
+3. [Frontend](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vQoFGOb7a0lQppQkYIKd1JQHFtp5dKGs8iX5INqy7avEV0Eh9EX3rEmDkUVhzfPMSLXFw-7qi1f2AMf%2Fpub%3Fgid%3D604704275%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Frontend.csv).
+4. [QA](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vS3AzkgmCZ1ZzaN1XDnzJ_j6tax-l1w9idmWVoLIaadqh_4sqB8HnuGpdKBH4P8vQ_R0doeyuvZenxl%2Fpub%3Fgid%3D1718585886%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+QA.csv).
 5. [Data](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1AlBKLqQbfXnw4GOdcsnfmWDt8gpGyp2VuezmvnsLMTo%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BData.csv).
-6. [iOS](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vQAC6MJuPAC6F-b3dOiaWzRe3wjA1OCruYgiMYBwjY51WdrHcqjadKDdUc17XwvEMTFR_6246VPY2z_%2Fpub%3Foutput%3Dcsv%26format%3D%2FDodo+Engineering+iOS.csv).
-7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1Gfjm3g3-u-WrZsynq7trQ3PiqQJozf7ceNy6wdUvxYk%2Fpub%3Foutput%3Dcsv%26format%3D%252FDodo%2BEngineering%2BAndroid.csv).
+6. [iOS Dodo Pizza](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vTq1imTtTYF3hLOCr2SfmNNDyTQwu1Z29Nh6sQiCAkz-ADvenhFHPfzV82DXrHt4rsW3EIoMO_YqhU8%2Fpub%3Fgid%3D0%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Pizza+iOS.csv).
+7. [Android](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2Fe%2F2PACX-1vRIJRCLRWKilMgx5rypHoCwGlUOpB79v4-oPPdSvNNSPkkgVao2uja2O4j1eEWqeUn34Ri0rzaNgut3%2Fpub%3Fgid%3D892813566%26single%3Dtrue%26output%3Dcsv%26format%3D%2FDodo+Engineering+Android.csv).
 
 # Что ещё?
 
@@ -56,7 +58,7 @@
 * Как мы ведём разработку Dodo IS.
   * [Что такое Dodo IS](https://habr.com/ru/company/dododev/blog/506136/).
   * [Структура команды](https://github.com/dodopizza/RTFM/blob/master/docs/team-structure.md).
-  * [Развитие и возможности в IT](https://github.com/dodopizza/RTFM/blob/master/docs/self-development.md).
+  * [Рыночные и глобальные команды](https://habr.com/ru/company/dododev/blog/666028/).
   * [Onboarding](https://habr.com/ru/company/dododev/blog/510382/).
 * Как стать частью нашей команды:
   * [Вакансии](https://dodo.dev/manager#jobs).
