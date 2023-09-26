@@ -1,27 +1,27 @@
 # Hello, this is Dodo IS Platform team!
 
-Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza, Drinkit, and Doner 42. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 17 countries in 900+ restaurants. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
+Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza, Drinkit, and Doner 42. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 19 countries in 950+ restaurants. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
 
-[![http://dodo.dev/](https://github.com/dodopizza/RTFM/raw/master/images/Header_dodo_is.png)](http://dodo.dev/)
+[![https://dodo.dev/](https://github.com/dodopizza/RTFM/raw/master/images/Header_dodo_is.png)](https://dodo.dev/)
 
 # Numbers
 
 * 250+ employees at Dodo Engineering
-* 900+ restaurants in 17 countries
+* 950+ restaurants in 19 countries
 * 22 000 000+ clients
 * $ 831 000 000 sales revenue
-* 350 orders per minute (760 is our record)
-* 5800 RPS
+* 350 orders per minute (800 is our record)
+* 6000 RPS
 
 # Technology stack
 
 * All our services are .NET- and Linux-based and run in Kubernetes.
-*  16 ASP.NET Core services as parts of a monolith and 30 more as standalone microservices.
-* Frontend: React + TypeScript, mostly. We are in the migration process from Angular in some places.
+* 16 ASP.NET Core services as parts of the monolith and 30+ more as standalone services.
+* Frontend: React + TypeScript. We are migrating from Angular in some places.
 * Mobile apps: native iOS & Android development for clients' apps and Flutter in our app for couriers.
 * 32 clustered MySQL databases.
 * Azure, Yandex Cloud, RabbitMQ (we are migrating to Kafka), Kusto, CosmosDB, and Redis.
-* Detailed production monitoring with Prometheus, visualization with Grafana, and collection of logs by Azure DataExplorer.
+* Detailed production monitoring with Prometheus, visualization with Grafana, and log collection by Azure Data Explorer.
 
 # Technology radars
 
