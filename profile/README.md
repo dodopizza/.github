@@ -1,16 +1,15 @@
 # Hello, this is Dodo IS Platform team!
 
-Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza, Drinkit, and Kebster!. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 22 countries in 1100+ restaurants. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
+Dodo Engineering is a team developing the first digital franchising platform, Dodo IS. Dodo IS Platform digitalizes every micro process in our QSR businesses from Dodo Brands: Dodo Pizza and Drinkit. It covers all parts of the restaurant business — from shift scheduling and order tracking to real-time sales analytics. In addition, the platform is fully integrated with our customer-facing digital products. It already works in 26 countries in 1300+ restaurants and coffee shops. In addition, we have Dodo IS API and Marketplace, so any vendor may develop some add-ons for our system and improve our partners' processes and profits.
 
-[![https://dodo.dev/](https://github.com/dodopizza/RTFM/raw/master/images/Header_dodo_is.png)](https://dodo.dev/)
 
 # Numbers
 
-* 250+ employees at Dodo Engineering
-* 1100+ restaurants in 22 countries
+* 380+ employees at Dodo Engineering
+* 1300+ restaurants in 26 countries
 * 22 000 000+ clients
 * $ 831 000 000 sales revenue
-* 350 orders per minute (800 is our record)
+* 500+ orders per minute (850 is our record)
 * 6000 RPS
 
 # Technology stack
