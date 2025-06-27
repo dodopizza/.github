@@ -34,17 +34,16 @@ Dodo Engineering is a team developing the first digital franchising platform, Do
 
 # Want to know more?
 
-* [LinkedIn](https://www.linkedin.com/showcase/dodoengineering/)
 * [Medium](https://medium.com/dodoengineering)
 * [Dodo Brands](https://dodobrands.io/ru//)
 * [Dodo Brands LinkedIn](https://www.linkedin.com/company/dodobrands/)
-* [Company Structure](https://miro.com/app/board/o9J_kyKdPj0=/)
 
 # Dodo IS in Russian
 
+* [Dodo Engineering in Telegram](https://t.me/dododev)
+* [Habr](https://habr.com/ru/companies/dododev/articles/) 
 * [What is Dodo IS](https://habr.com/ru/company/dododev/blog/506136/)
-* [Dodo Engineering in Telegram in Russian](https://t.me/dododev)
 * [Dodo IS Markeplace in Telegram](https://t.me/dodo_is_marketplace)
 * [Global and Market Teams](https://habr.com/ru/company/dododev/blog/666028/)
 * [Mission and Strategy](https://github.com/dodopizza/RTFM/blob/master/docs/our-mission.md)
-* [Join Dodo Engineering team](https://dodo.dev/manager#jobs)
+* [One pager about Dodo Engineering](https://dodoengineering.ru) 
